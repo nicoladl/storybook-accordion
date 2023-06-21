@@ -15,7 +15,7 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "@babel/core": "^7.5.4",
